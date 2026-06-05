@@ -1,0 +1,76 @@
+/* estilos.css */
+*{
+  box-sizing: border-box;
+  margin: 0.5;
+  padding: 0.5;
+}
+body {
+  background-color: #ffcece;
+  color: #6e0202;
+  font-size: 1rem;
+  font-family:var(Times New Roman), sans-serif;
+  line-height: 1.3;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+h1{
+  color: #ff0080;
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+p {
+  font-size: 1rem;
+  margin: 1rem;
+  padding: 1rem;
+}
+h2{
+  color: #8d0d0d94;
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+a {
+  font-size: 1rem;
+  margin: 1rem;
+  text-decoration: none;
+  color: #a84bd3;
+}
+img {
+  margin: 1rem;
+  padding: 1rem;
+  width: 50%;
+}
+dl{
+   color: #7c0000;
+  font-size: 1rem;
+  margin: 1rem;
+}
+footer{
+  background-color: #d69c9c;
+  padding: 0rem;
+  margin: 0.5rem;
+}
+header{
+  background-color: #f0b9ac;
+  padding: 0.5rem;
+  margin: 0.5rem;
+}
+main{
+  padding: 0.5rem;
+  margin: 0.5rem;
+}
+section{
+  padding: 1rem;
+  margin: 0.5rem;
+}
+nav a{
+    color: #8b250c;
+    gap: 1rem 1rem;
+    text-decoration: none;
+}
+nav a:hover {
+  color: #e46262; 
+}
+a:hover{
+  color: #581875;
+}
